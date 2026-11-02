@@ -47,7 +47,7 @@ Ollama ожидает высвобождения после генерации �
   https://github.com/open-webui/open-webui
   
 # Link to the ready‑made set of AI components [Ссылка на готовый набор компонентов ИИ]:
-+ Download all the components (39 GB) for the manual or create what is needed based on it / Скачайте все компоненты (39Gb) для мануала или создайте необходимое по нему
++ Download all the components (39 GB) for the manual and create what is needed based on it / Скачайте все компоненты (39Gb) для мануала и создайте необходимое по нему
 #  [https://files.sberdisk.ru/s/QlqZZMb6t32MNUH](https://files.sberdisk.ru/s/KV0SZt26hVJKXLL)
 Link availability is not guaranteed / Доступность ссылки не гарантируется
 
