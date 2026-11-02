@@ -48,8 +48,8 @@ Ollama ожидает высвобождения после генерации �
   
 # Link to the ready‑made set of AI components [Ссылка на готовый набор компонентов ИИ]:
 + Download all the components (39 GB) for the manual or create what is needed based on it / Скачайте все компоненты (39Gb) для мануала или создайте необходимое по нему
-#  https://files.sberdisk.ru/s/QlqZZMb6t32MNUH
-  Link availability is not guaranteed / Доступность ссылки не гарантируется
+#  [https://files.sberdisk.ru/s/QlqZZMb6t32MNUH](https://files.sberdisk.ru/s/KV0SZt26hVJKXLL)
+Link availability is not guaranteed / Доступность ссылки не гарантируется
 
 ---
 
